@@ -16,5 +16,6 @@ Firstly clone the repo
 5. Upload the objects in specific bucket 
 6. Delete the specific obect from specific bucket
 
-![image](https://user-images.githubusercontent.com/90461882/186857145-6a26fdbc-5f33-4adb-b220-22253a8d5553.png)
+![image](https://user-images.githubusercontent.com/90461882/186857145-6a26fdbc-5f33-4adb-b220-22253a8d5553.png) ![image](https://user-images.githubusercontent.com/90461882/186857272-4ec079f5-12d0-4cde-be46-3e161a72ecc5.png)
+
 
