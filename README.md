@@ -15,3 +15,6 @@ Firstly clone the repo
 4. List the objects of perticular bucket
 5. Upload the objects in specific bucket 
 6. Delete the specific obect from specific bucket
+
+![image](https://user-images.githubusercontent.com/90461882/186857145-6a26fdbc-5f33-4adb-b220-22253a8d5553.png)
+
